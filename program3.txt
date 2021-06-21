@@ -1,0 +1,21 @@
+x = 23+12 ;
+
+while ( x<100 ) {
+
+    out (x);
+
+    x = x + 1 ;
+
+    if ( x == 20) {
+        in (max);
+    }
+
+    if ( x == 10) {
+        out (min);
+    }
+
+}
+
+if ( x == 10) {
+        in (true);
+}
